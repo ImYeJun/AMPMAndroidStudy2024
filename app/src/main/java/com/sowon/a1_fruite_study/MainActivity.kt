@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
             // 2. 화면이 클릭되면 다른 화면으로 넘어감 - Activity 화면 전환
             var intent = Intent(this, Fruit1Activity::class.java)
             startActivity(intent)
+
+
         }
     }
 }
