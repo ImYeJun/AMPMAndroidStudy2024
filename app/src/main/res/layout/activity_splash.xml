@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".SplashActivity">
 
+    <ImageView
+        android:layout_margin="20dp"
+        android:padding="20dp"
+        android:src="@drawable/splash_fruits"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
